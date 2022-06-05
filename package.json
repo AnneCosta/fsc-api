@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "dev": "node server.js"
+    "start": "node api/server.js"
   },
   "dependencies": {
     "@koa/cors": "^3.3.0",
